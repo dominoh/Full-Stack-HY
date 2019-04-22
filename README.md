@@ -4,3 +4,5 @@ Helsinki University Full Stack Open course. JavaScript, React, Node.js REST inte
 My shot at the tasks provided
 
 https://fullstackopen.com/
+
+VS Code Git push test.
